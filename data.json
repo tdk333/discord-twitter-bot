@@ -3,7 +3,7 @@
         {
             "IncludeReplyToUser" : false,
             "IncludeRetweet" : true,
-            "IncludeUserReply" : true,
+            "IncludeUserReply" : false,
             "twitter_ids" : [
                 "1005456811279994880",
                 "966372701597323264",
