@@ -75,10 +75,8 @@
                 "2309637680",
                 "2294550240",
                 "2260491445",
-                "1631283282",
                 "1430417310",
                 "1364642054",
-                "1333467482",
                 "886832413",
                 "503238457",
                 "478777980",
@@ -95,6 +93,18 @@
             ],
             "webhook_urls" : [
                 "https://discordapp.com/api/webhooks/460228695437869056/bcJNTC42Ok1FhQVOzOT823UUUc4R49WXeKTwf6hB5VqGI6cNlbgMu4EUpJvNoTwEt4Hm"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : true,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "1333467482",
+                "963409157050241025"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/460416900191617024/CSJGLE8ETupblPE_UsWh6w_ZyZKZyHb8slhelW11-mPYOdSgWkGkJjTayuHCpt_5T9_y"
             ]
         }
     ],
