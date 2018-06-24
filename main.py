@@ -22,7 +22,7 @@ class StdOutListener(StreamListener):
     def on_status(self, status):
         """Called when a new status arrives"""
 
-        colors = [0x004d99]
+        colors = [0x505358]
 
         data = status._json
 
