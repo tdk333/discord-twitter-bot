@@ -6,7 +6,7 @@
             "IncludeUserReply" : false,
             "twitter_ids" : [],
             "webhook_urls" : []
-        }
+        },
         {
             "IncludeReplyToUser" : false,
             "IncludeRetweet" : true,
