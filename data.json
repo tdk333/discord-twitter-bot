@@ -1,17 +1,12 @@
 {
     "Discord" : [
-      {
-          "IncludeReplyToUser" : false,
-          "IncludeRetweet" : true,
-          "IncludeUserReply" : false,
-          "twitter_ids" : [
-              "",
-              ""
-          ],
-          "webhook_urls" : [
-              "https://discordapp.com/api/webhooks/460228695437869056/bcJNTC42Ok1FhQVOzOT823UUUc4R49WXeKTwf6hB5VqGI6cNlbgMu4EUpJvNoTwEt4Hm"
-          ]
-      }
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : true,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [],
+            "webhook_urls" : []
+        }
         {
             "IncludeReplyToUser" : false,
             "IncludeRetweet" : true,
